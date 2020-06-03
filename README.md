@@ -1,5 +1,5 @@
 ## Buscador binario de cadenas en ficheros mediante expresiones regulares
-La siguiente prueba de concepto muestra el código fuente de una herramienta escrita en C para la búsqueda de cadenas en ficheros.  La herramienta es capaz de buscar de forma recursiva en todas las carpetas contenidas en la carpeta inicial de búsqueda.
+La siguiente prueba de concepto muestra el código fuente de una herramienta escrita en C para la búsqueda.. de cadenas en ficheros.  La herramienta es capaz de buscar de forma recursiva en todas las carpetas contenidas en la carpeta inicial de búsqueda.
 
 ### Compilación
 
